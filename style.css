@@ -72,6 +72,10 @@ header h1 {
   font-family: 'Times New Roman', serif;
 }
 
+.FED h1 {
+  text-align: center;
+}
+
 /* Section Heading Styles for Each Page ------------------------------------------- */
 section h2 {
   font-family: 'Times New Roman', serif;
@@ -100,3 +104,4 @@ section h2.todo, section h2.fed, section h2.db, section h2.prg, section h2.osnf,
   margin: 10px 5px;
   padding: 5px;
 }
+
